@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Name {
+  display: block;
+  text-align: center;
+  width: 40%;
+  border: black solid 2px;
+}
